@@ -1,0 +1,4 @@
+# This file is used internally by FFMPEG.
+file 'file:C:/Users/Chidiadi/Documents/GitHub/Manim-Animations-And-Images/media/videos/graph-animation/1080p60/partial_movie_files/GraphAnimation/450974505_3138776337_4193379366.mp4'
+file 'file:C:/Users/Chidiadi/Documents/GitHub/Manim-Animations-And-Images/media/videos/graph-animation/1080p60/partial_movie_files/GraphAnimation/34786186_329969645_2513594405.mp4'
+file 'file:C:/Users/Chidiadi/Documents/GitHub/Manim-Animations-And-Images/media/videos/graph-animation/1080p60/partial_movie_files/GraphAnimation/34786186_2797555578_1196950813.mp4'
